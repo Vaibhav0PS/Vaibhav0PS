@@ -1,14 +1,6 @@
-# Hi 👋, I'm Vaibhav
+# Hi , I'm Vaibhav
 
-🚀 **Competitive Programmer | Developer | Lifelong Learner**
-
----
-
-## 🌟 About Me
-
-* 💻 I love solving problems and building cool stuff
-* 🧠 Currently grinding **DSA & Competitive Programming**
-* ⚡ Always curious about how things work under the hood
+ **Competitive Programmer | Developer | Lifelong Learner**
 
 ---
 
@@ -24,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav0PS\&show_icons=true\&theme=tokyonight)
 
@@ -32,24 +24,8 @@
 
 ---
 
-## 🧠 Currently Learning
-
-* Data Structures & Algorithms
-* System Design Basics
-
----
-
-## 🎯 Goals
-
-* 🏆 Become strong in Competitive Programming
-* 🚀 Build impactful projects
-
----
-
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vaibhav-patole-7016b5376/)
 
 ---
-
-⭐️ *“Code. Learn. Repeat.”*

@@ -15,9 +15,12 @@
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge\&logo=go)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
 ---
 
@@ -45,8 +48,7 @@
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Vaibhav0PS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vaibhav-patole-7016b5376/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vaibhav-patole-7016b5376/)
 
 ---
 

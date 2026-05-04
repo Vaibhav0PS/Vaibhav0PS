@@ -23,6 +23,8 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS\&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhav0PS)
+
 ---
 
 ##  Connect With Me

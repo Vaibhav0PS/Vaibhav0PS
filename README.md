@@ -3,6 +3,7 @@
  **Competitive Programmer | Developer | Lifelong Learner**
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav0PS&color=blue)
 
 ## 🛠️ Tech Stack
 

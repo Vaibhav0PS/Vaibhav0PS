@@ -1,32 +1,23 @@
-# Hi , I'm Vaibhav
+# Vaibhav Patole
 
- **Competitive Programmer | Developer | Lifelong Learner**
+**Competitive Programmer | Developer | Lifelong Learner**
 
----
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav0PS&color=blue)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge\&logo=go)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## GitHub Stats
 
-##  GitHub Stats
+![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS&theme=tokyonight)
 
+## Connect
 
-![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS\&theme=tokyonight)
-
-
----
-
-##  Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vaibhav-patole-7016b5376/)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-patole-7016b5376/)

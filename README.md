@@ -1,6 +1,6 @@
 # Vaibhav Patole
 
-**Competitive Programmer | Developer | Lifelong Learner**
+** | Developer | **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav0PS&color=blue)
 

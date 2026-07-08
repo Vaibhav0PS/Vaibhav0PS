@@ -22,14 +22,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav0PS&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav0PS&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vaibhav0PS&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS&theme=tokyonight&hide_border=true)
 
 ## Connect
 

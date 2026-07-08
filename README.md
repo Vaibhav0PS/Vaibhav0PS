@@ -1,14 +1,8 @@
 # Vaibhav Patole
 
-**Competitive Programmer | Developer | Lifelong Learner**
+** Developer **
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav0PS&color=blue)
-
-## About Me
-
-- Passionate about solving algorithmic problems and competitive programming
-- Building projects across systems, web, and backend development
-- Always exploring new languages and tools
 
 ## Tech Stack
 
@@ -22,7 +16,7 @@
 
 ## GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Vaibhav0PS&theme=tokyonight)
 
 ## Connect
 

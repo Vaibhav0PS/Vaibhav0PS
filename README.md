@@ -1,6 +1,6 @@
 # Vaibhav Patole
 
-** Developer **
+Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav0PS&color=blue)
 

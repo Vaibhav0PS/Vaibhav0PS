@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="250" viewBox="0 0 490 250" role="img">
+<title>Reconciliation Engine — Matching transactions. Surfacing the mismatches.</title>
+<rect x="1" y="1" width="488" height="236" rx="14" fill="#121820" stroke="#2C343E"/>
+<path d="M25 1h75" stroke="#DDB36A" stroke-width="2"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+ <text x="27" y="35" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#DDB36A">03 / BACKEND ENGINEERING</text>
+ <text x="27" y="80" font-size="27" font-weight="600" fill="#F1F0EB" letter-spacing="-.5">Reconciliation Engine</text>
+ <text x="27" y="120" font-size="19" fill="#AAB3C0">Matching transactions.</text>
+ <text x="27" y="148" font-size="19" fill="#AAB3C0">Surfacing the mismatches.</text>
+ <path d="M27 174h436" stroke="#28313B"/>
+ <text x="27" y="207" font-size="14" fill="#D8C6A5">FastAPI / PostgreSQL / Redis</text>
+ <path d="M444 200h14m-6-6 6 6-6 6" stroke="#DDB36A" fill="none" stroke-width="1.5"/>
+</g>
+<g transform="translate(417 64)" stroke="#DDB36A" stroke-width="1.6" fill="none" opacity=".7"><path d="M2 12h35m-8-8 8 8-8 8M39 31H4m8-8-8 8 8 8"/></g>
+</svg>

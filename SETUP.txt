@@ -1,0 +1,21 @@
+1. Open https://github.com/Vaibhav0PS/Vaibhav0PS
+2. Choose Add file > Upload files.
+3. Drag README.md and the assets folder from this package into the upload area.
+   Upload the folder contents at the repository root, not the profile-redesign folder.
+4. Commit the changes.
+
+Required repository structure:
+README.md
+assets/banner.svg
+assets/dashrl.svg
+assets/botnet.svg
+assets/reconciliation.svg
+assets/repo-health.svg
+
+The banner and project cards are original SVG assets and require no hosted generator.
+Activity stats are optional, expandable, and provided by the existing third-party streak service.
+The preview is a local approximation of GitHub's README layout.
+
+Design references:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/beydemirfurkan/awesome-github-profile/blob/main/templates/01-minimal/editorial-card/README.md
